@@ -1,0 +1,1 @@
+import 'gangleri-hello-component';
